@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kaxm23
-- 👀 I’m interested in ...infosec
-- 🌱 I’m currently learning ...sysadmin red team training
-- 💞️ I’m looking to collaborate on ...cyber defense      
+- 👀 I’m interested in ...networking  and cyber security
+- 🌱 I’m currently learning ...building networking tools
+- 💞️ I’m looking to collaborate on ...redteam  
 - 📫 How to reach me ...on my twitter 
 
 <!---
