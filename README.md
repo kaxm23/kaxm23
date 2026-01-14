@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! I'm kaxm23 — an Ethical Hacker & Sysadmin </h2>
+<h2 align="left">Hi 👋! I'm kaxm23 — an offensive security engineer & ctf player
+ </h2>
 
 ---
 
