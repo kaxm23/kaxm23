@@ -1,4 +1,4 @@
-<h2 align="left"># whoami 👋 I'm kaxm23 — Red Team Operator & Exploit Dev 🏴‍☠️</h2>
+<h2 align="left">Hi 👋 I'm kaxm23 — Professional Penetration Tester & Security Researcher 🔍</h2>
 
 ---
 
@@ -9,39 +9,37 @@
 
 ---
 
-### 🛠️ Tactical Arsenal (Red Team)
+### 🛡️ Vulnerability Assessment Arsenal
 
 <div align="left">
-  <img src="https://www.vectorlogo.zone/logos/kaliorg/kaliorg-icon.svg" height="35" alt="kali" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="35" alt="bash" />
+  <img src="https://www.vectorlogo.zone/logos/kali/kali-icon.svg" height="35" alt="kali" />
   <img width="10" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="35" alt="python" />
   <img width="10" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" height="35" alt="powershell" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="35" alt="javascript" />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" alt="csharp" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="35" alt="golang" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" alt="docker" />
+  <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" height="35" alt="wireshark" />
   <img width="10" />
   <img src="https://www.vectorlogo.zone/logos/metasploit/metasploit-icon.svg" height="35" alt="metasploit" />
+  <img width="10" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="35" alt="docker" />
+  <img width="10" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="35" alt="linux" />
 </div>
 
 ---
 
-### 🎯 Mission Objectives
+### 💻 Testing Domains
 
-- 🚩 **Adversary Emulation:** Simulating APT behavior and stealthy exfiltration.
-- 💉 **Exploit Development:** Weaponizing vulnerabilities in C# and Python.
-- 🏢 **Active Directory Domination:** Kerberoasting, BloodHound analysis, and Lateral Movement.
-- 🕸️ **Web Pwn:** Advanced payload delivery and bypass techniques (WAF/EDR).
-- 🧬 **Post-Exploitation:** Persistent access and credential harvesting.
+- 🌐 **Web Application Pentesting:** OWASP Top 10, API security, and Business Logic vulnerabilities.
+- 🏗️ **Infrastructure Security:** Network pivoting, VLAN hopping, and misconfiguration discovery.
+- 🔑 **Active Directory Assessment:** Testing for GPO misconfigurations, Kerberoasting, and ACL abuse.
+- 📱 **Mobile Security:** Static and dynamic analysis of Android/iOS binaries.
+- 📑 **Technical Reporting:** Translating complex vulnerabilities into actionable risk remediation for stakeholders.
 
 ---
 
-### 🔗 Initial Access (Let's Connect)
+### 📡 Telemetry & Communication
 
 <div align="left">
   <a href="mailto:your-email@gmail.com">
@@ -66,5 +64,5 @@
 ---
 
 <p align="center">
-  <i>"Visibility is a trap. Stealth is a requirement."</i>
+  <i>"Identify. Exploit. Remediate."</i>
 </p>
