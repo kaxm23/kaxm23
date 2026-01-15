@@ -1,68 +1,73 @@
-<h2 align="left">Hi 👋 I'm kaxm23 — offensive security engineer & ctf player  </h2>
+<div align="center">
+
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=33CC33&center=true&vCenter=true&width=600&lines=System.out.println(%22Hello+World%22)%3B;I'm+kaxm23;Penetration+Tester;Security+Researcher;CTF+Player;Bug+Bounty+Hunter" alt="Typing SVG" />
+
+  <br/>
+
+  <img src="https://github-profile-trophy.vercel.app/?username=kaxm23&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4" />
+
+</div>
 
 ---
+
+### 🕵️‍♂️ About The Operative
+
+> *"Security is not a product, but a process."*
+
+I am a security professional specializing in **Offensive Security**. My workflow involves deep reconnaissance, vulnerability identification, and responsible disclosure.
+
+* 🔭 **Current Operation:** Advanced Web Application Penetration Testing.
+* 🎯 **Target Scope:** Network Infrastructure, Active Directory, & Cloud Environments.
+* 🛠️ **Methodology:** OWASP Top 10, PTES, OSSTMM.
+* ⚡ **Superpower:** turning coffee into root shells.
+
+---
+
+### 🧰 The Arsenal
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaxm23&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kaxm23&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
-</div>
 
----
-
-### 🛡️ Vulnerability Assessment Arsenal
-
-<div align="left">
-  <img src="https://www.vectorlogo.zone/logos/kali/kali-icon.svg" height="35" alt="kali" />
-  <img width="10" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="35" alt="python" />
-  <img width="10" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="35" alt="javascript" />
-  <img width="10" />
-  <img src="https://www.vectorlogo.zone/logos/wireshark/wireshark-icon.svg" height="35" alt="wireshark" />
-  <img width="10" />
-  <img src="https://www.vectorlogo.zone/logos/metasploit/metasploit-icon.svg" height="35" alt="metasploit" />
-  <img width="10" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="35" alt="docker" />
-  <img width="10" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="35" alt="linux" />
-</div>
-
----
-
-### 💻 Testing Domains
-
-- 🌐 **Web Application Pentesting:** OWASP Top 10, API security, and Business Logic vulnerabilities.
-- 🏗️ **Infrastructure Security:** Network pivoting, VLAN hopping, and misconfiguration discovery.
-- 🔑 **Active Directory Assessment:** Testing for GPO misconfigurations, Kerberoasting, and ACL abuse.
-- 📱 **Mobile Security:** Static and dynamic analysis of Android/iOS binaries.
-- 📑 **Technical Reporting:** Translating complex vulnerabilities into actionable risk remediation for stakeholders.
-
----
-
-### 📡 Telemetry & Communication
-
-<div align="left">
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="gmail" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=kali,linux,bash,py,java,js,c,cpp,cs,go,powershell,docker,aws,git,vim,vscode&theme=dark" />
   </a>
+  
+  <br/><br/>
+  
+  <img src="https://img.shields.io/badge/Metasploit-333333?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-EOE0E0?style=for-the-badge&logo=hackthebox&logoColor=black" />
+  <img src="https://img.shields.io/badge/OWASP%20ZAP-4B5282?style=for-the-badge&logo=owasp&logoColor=white" />
+
+</div>
+
+---
+
+### 📊 Intelligence Report (Stats)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kaxm23&show_icons=true&theme=react&rank_icon=github&border_radius=10&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaxm23&layout=compact&theme=react&border_radius=10" height="150" alt="languages graph" />
+</div>
+
+---
+
+### 🔗 Encrypted Channels
+
+<div align="center">
   <a href="https://linkedin.com/in/your-profile">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://discord.gg/your-invite">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35" alt="discord" />
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://discord.gg">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
 </div>
 
----
-
-<br clear="both">
+<br/>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 </div>
-
----
-
-<p align="center">
-  <i>"Identify. Exploit. Remediate."</i>
-</p>
