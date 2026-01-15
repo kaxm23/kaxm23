@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋 I'm kaxm23 — Professional Penetration Tester & Security Researcher 🔍</h2>
+<h2 align="left">Hi 👋 I'm kaxm23 — offensive security engineer & ctf player  </h2>
 
 ---
 
