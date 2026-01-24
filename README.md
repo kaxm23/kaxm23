@@ -10,20 +10,20 @@
 
 ---
 
-### 🕵️‍♂️ About The Operative
+## 🕵️‍♂️ About The Operative
 
-> *"Security is not a product, but a process."*
+> *"Security is not a product, but a process."*  
 
 I am a security professional specializing in **Offensive Security**. My workflow involves deep reconnaissance, vulnerability identification, and responsible disclosure.
 
-* 🔭 **Current Operation:** Advanced Web Application Penetration Testing.
-* 🎯 **Target Scope:** Network Infrastructure, Active Directory, & Cloud Environments.
-* 🛠️ **Methodology:** OWASP Top 10, PTES, OSSTMM.
-* ⚡ **Superpower:** turning coffee into root shells.
+- 🔭 **Current Operation:** Advanced Web Application Penetration Testing  
+- 🎯 **Target Scope:** Network Infrastructure, Active Directory, & Cloud Environments  
+- 🛠️ **Methodology:** OWASP Top 10, PTES, OSSTMM  
+- ⚡ **Superpower:** Turning coffee into root shells ☕➡️🐚  
 
 ---
 
-### 🧰 The Arsenal
+## 🧰 The Arsenal
 
 <div align="center">
 
@@ -36,14 +36,14 @@ I am a security professional specializing in **Offensive Security**. My workflow
   <img src="https://img.shields.io/badge/Metasploit-333333?style=for-the-badge&logo=metasploit&logoColor=white" />
   <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-EOE0E0?style=for-the-badge&logo=hackthebox&logoColor=black" />
+  <img src="https://img.shields.io/badge/Nmap-2E2E2E?style=for-the-badge&logo=hackthebox&logoColor=green" />
   <img src="https://img.shields.io/badge/OWASP%20ZAP-4B5282?style=for-the-badge&logo=owasp&logoColor=white" />
 
 </div>
 
 ---
 
-### 📊 Intelligence Report (Stats)
+## 📊 Intelligence Report
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kaxm23&show_icons=true&theme=react&rank_icon=github&border_radius=10&count_private=true" height="150" alt="stats graph" />
@@ -52,7 +52,7 @@ I am a security professional specializing in **Offensive Security**. My workflow
 
 ---
 
-### 🔗 Encrypted Channels
+## 🔗 Encrypted Channels
 
 <div align="center">
   <a href="https://linkedin.com/in/your-profile">
@@ -66,7 +66,7 @@ I am a security professional specializing in **Offensive Security**. My workflow
   </a>
 </div>
 
-<br/>
+---
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
