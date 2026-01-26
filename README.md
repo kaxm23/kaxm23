@@ -2,11 +2,6 @@
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=33CC33&center=true&vCenter=true&width=600&lines=System.out.println(%22Hello+World%22)%3B;I'm+kaxm23;Penetration+Tester;Security+Researcher;CTF+Player;Bug+Bounty+Hunter" alt="Typing SVG" />
 
-  <br/>
-
-  <img src="https://github-profile-trophy.vercel.app/?username=kaxm23&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4" />
-
-</div>
 
 ---
 
